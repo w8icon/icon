@@ -1,0 +1,15 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1" 
+                stroke="#000000" 
+                fill="none" 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#22B573}</style></defs><g><circle cx="12" cy="12" r="9"></circle>
+<path class="as-1" d="M11.3074 9.73851L15 9L14.2615 12.6926C14.1031 13.4843 13.4843 14.1031 12.6926 14.2615L9 15L9.73851 11.3074C9.89686 10.5157 10.5157 9.89686 11.3074 9.73851Z"></path></g>
+                </svg>

@@ -1,0 +1,14 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1" 
+                stroke="#000000" 
+                fill="none" 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#22B573}</style></defs><g><path d="m19,10.1v8.9c0,1.1-.9,2-2,2H7c-1.1,0-2-.9-2-2v-8.9"></path><polyline points="2.85 12.18 11.97 3 21.15 12.18" class="as-1"></polyline></g>
+                </svg>

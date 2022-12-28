@@ -1,0 +1,15 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1"
+                stroke-linecap="round" 
+                stroke-linejoin="round"
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#000000;fill:none}.as-2{stroke:#22B573;fill:#22B573}</style></defs><g><circle cx="12" cy="12" r="9" class="as-2"></circle>
+<rect x="9.01001" y="9.5" width="0.01" height="0.01" class="as-1"></rect>
+<rect x="15.01" y="9.5" width="0.01" height="0.01" class="as-1"></rect>
+<path d="M15.4649 14C14.7732 15.1956 13.4806 16 12 16C10.5194 16 9.22674 15.1956 8.53513 14" class="as-1"></path></g>
+                </svg>

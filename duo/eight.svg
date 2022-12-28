@@ -1,0 +1,14 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1"
+                stroke-linecap="round" 
+                stroke-linejoin="round"
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#000000;fill:none}.as-2{stroke:#22B573;fill:#22B573}</style></defs><g><circle cx="12" cy="12" r="9" class="as-2"></circle>
+<circle cx="12" cy="14" r="3" class="as-1"></circle>
+<circle cx="12" cy="9" r="2" class="as-1"></circle></g>
+                </svg>

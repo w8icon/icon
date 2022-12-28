@@ -1,0 +1,15 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1" 
+                stroke="#000000" 
+                fill="none" 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#22B573}</style></defs><g><path d="M12 5H7C5.89543 5 5 5.89543 5 7V17C5 18.1046 5.89543 19 7 19H17C18.1046 19 19 18.1046 19 17V12"></path>
+<path class="as-1" d="M12 5H17C18.1046 5 19 5.89543 19 7V12"></path></g>
+                </svg>

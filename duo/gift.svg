@@ -1,0 +1,15 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1"
+                stroke-linecap="round" 
+                stroke-linejoin="round"
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#000000;fill:#000000}.as-2{stroke:#22B573;fill:#22B573}</style></defs><g><path d="M4 19V11H20V19C20 20.1046 19.1046 21 18 21H6C4.89543 21 4 20.1046 4 19Z" class="as-2"></path>
+<path d="M6 4.5C6 3.11929 7.11929 2 8.5 2V2C10.433 2 12 3.567 12 5.5V7H8.5C7.11929 7 6 5.88071 6 4.5V4.5Z" class="as-2" style="fill:none"></path>
+<path d="M18 4.5C18 3.11929 16.8807 2 15.5 2V2C13.567 2 12 3.567 12 5.5V7H15.5C16.8807 7 18 5.88071 18 4.5V4.5Z" class="as-2" style="fill:none"></path>
+<path d="M3 7H21V11H3V7Z" class="as-1"></path></g>
+                </svg>

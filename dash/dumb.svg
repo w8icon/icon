@@ -1,0 +1,16 @@
+
+                <svg 
+                xmlns="http://www.w3.org/2000/svg" 
+                height="120" 
+                width="120" 
+                stroke-width="1" 
+                stroke="#000000" 
+                fill="none" 
+                stroke-linecap="round" 
+                stroke-linejoin="round" 
+                viewBox="0 0 24 24"
+                >
+                <defs><style>.as-1{stroke:#22B573}</style></defs><g><circle cx="12" cy="12" r="9"></circle>
+<rect class="as-1" x="9.01001" y="9.5" width="0.01" height="0.01"></rect>
+<rect class="as-1" x="15.01" y="9.5" width="0.01" height="0.01"></rect></g>
+                </svg>
